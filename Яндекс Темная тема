@@ -1,0 +1,92 @@
+html {
+    background: #121212;
+}
+.bi_Tr_PU {
+    color: #fff;
+}
+.home-link_black_yes, .home-link_black_yes:visited {
+    color: #018bb4;
+}
+.home-link_blue_yes, .home-link_blue_yes:visited {
+    color: #00a1ff;
+}
+.media-grid {
+    position: relative;
+    color: #000;
+    background: #121212;
+    overflow-anchor: none;
+}
+.desk-notif-card__card {
+    position: relative;
+    margin-right: 10px;
+    margin-bottom: 8px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,.1), 0 2px 6px 0 rgba(0,0,0,.1);
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.1), 0 2px 6px 0 rgba(0,0,0,.1);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 180px;
+    padding: 12px 14px;
+    -webkit-transition: margin .1s .4s,visibility .1s .4s,-webkit-transform .15s ease-out 50ms;
+    transition: transform .15s ease-out 50ms,margin .1s .4s,visibility .1s .4s;
+    transition: transform .15s ease-out 50ms,margin .1s .4s,visibility .1s .4s,-webkit-transform .15s ease-out 50ms;
+    background: #000;
+}
+body {
+    margin: 0;
+    font: 81.25% Arial,Helvetica,sans-serif;
+    color: #b6b6b6;
+    background: 0 0;
+    -webkit-text-size-adjust: 100%;
+}
+.media-service__bg {
+    background-color: #000;
+}
+.media-grid {
+    position: relative;
+    color: #e3e3e3;
+    background: #121212;
+    overflow-anchor: none;
+}
+.news-inserts__item {
+    font-size: 13px;
+    position: relative;
+    z-index: 0;
+    display: inline-block;
+    margin-top: 0;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    padding: 0;
+    vertical-align: top;
+    white-space: normal;
+    color: #dce3e2;
+}
+.mix-tabber_theme_media .mix-tabber__tab {
+    line-height: 1.24;
+    display: inline-block;
+    margin: 8px 8px 0 0;
+    padding: 10px 16px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: background .15s ease-out;
+    transition: background .15s ease-out;
+    border-radius: 3px;
+    outline: none;
+    background: #116d00;
+}
+.discuss__item {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    width: 256px;
+    margin-right: 16px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    white-space: normal;
+    border-radius: 6px;
+    background: #000;
+}
